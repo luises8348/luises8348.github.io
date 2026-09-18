@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Direct search bots to your main sitemap
+Sitemap: https://luises8348.github.io/sitemap.xml
